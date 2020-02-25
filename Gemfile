@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rake', '10.5.0'
+gem 'rake', '12.3.3'
 
 gem 'jekyll', '3.6.3'
 gem 'redcarpet', '3.3.4'
