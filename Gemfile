@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rake', '10.5.0'
 
 gem 'jekyll', '3.6.3'
-gem 'redcarpet', '3.3.4'
+gem 'redcarpet', '3.5.1'
 gem 'pygments.rb', '1.0.0'
 
 gem 'jekyll-assets', '1.0.0'
